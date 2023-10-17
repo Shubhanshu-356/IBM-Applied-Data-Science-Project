@@ -1,5 +1,5 @@
 # IBM Applied Data Science Project
-# Project-Product Demand and Prediction with Machine Learning
+# Project-Product Demand Prediction with Machine Learning
 Problem Statement:-
 
 The primary objective of this project is to create a robust machine learning model that accurately forecasts product demand. By leveraging historical sales data and external factors, we aim to assist businesses in optimizing their inventory management and production planning, ultimately enhancing their ability to meet customer needs efficiently.
