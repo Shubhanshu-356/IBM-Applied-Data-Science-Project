@@ -54,7 +54,7 @@ Select and implement machine learning algorithms.
 Train and fine-tune models.
 Evaluate model performance using appropriate metrics.
 Select the best-performing model.
-Model Evaluation
+
 Phase 5:- 
 
 Model Evaluation and Deployment
