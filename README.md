@@ -42,7 +42,7 @@ Create additional features to capture seasonal patterns and trends.
 Engineer features representing the impact of external factors on demand.
 
 Explore time series forecasting techniques for capturing temporal patterns.
-Model Development
+
 Phase 4:-
 
 Model Development
